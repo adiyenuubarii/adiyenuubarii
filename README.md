@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning JavaScript, CSS and HTML
 - 💞️ I’m looking to collaborate on Developing Games
 - 📫 How to reach me abhi.aadi219@gmail.com
+- Also, I am looking for a job to make some quick cash
 
 <!---
 adiyenuubarii/adiyenuubarii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
