@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adi Yenuubarii</h1>
 <h3 align="center">https://github.com/adiyenuubarii/trueshell</h3>
-I'm the creator of Trueshell.
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adiyenuubarii&theme=radical" alt="adiyenuubarii" /></a> </p>
 
 
