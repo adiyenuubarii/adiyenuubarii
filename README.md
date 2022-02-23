@@ -13,4 +13,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adiyenuubarii&theme=dracula" alt="adiyenuubarii" /></p>
 
-![alt text](https://images.app.goo.gl/GRo4QAGwCTxFcopv9)
+![alt text](https://static.wixstatic.com/media/545315_29e66c4be4ad4be4b7e18463a69332d8~mv2.jpg/v1/fit/w_638%2Ch_462%2Cal_c%2Cq_80/file.jpg)
