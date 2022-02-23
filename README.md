@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adi Yenuubarii</h1>
 <h3 align="center">https://github.com/adiyenuubarii/trueshell</h3>
-
+<p align ="center">
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+</p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adiyenuubarii&theme=radical" alt="adiyenuubarii" /></a> </p>
 
