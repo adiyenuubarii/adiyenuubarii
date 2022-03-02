@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adi Yenuubarii</h1>
 <h3 align="center">https://github.com/adiyenuubarii/whydia</h3>
+<h3 align="center">3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348253421170679.</h3>
 <h3 align="center">I can't put a lot of stuff here. Check out my blog that's gonna come in some time
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adiyenuubarii&theme=radical" alt="adiyenuubarii" /></a> </p>
 
