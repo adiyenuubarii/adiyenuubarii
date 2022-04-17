@@ -7,7 +7,7 @@ Thanks for visiting my github profile.
 
 ```js
 const Adi = {
-    FavouriteLanguage: "Javascript/HTML",
+    FavouriteLanguage: "Javascript/Rust",
     OpenedIssues: 6,
     OpenedPullRequests: 6,
     TotalCommits: 247 this year,
