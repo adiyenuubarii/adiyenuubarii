@@ -28,7 +28,7 @@ const Adi = {
   </summary>
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=adiyenuubarii&theme=dracula">
- [![adiyenuubarii's github activity graph](https://activity-graph.herokuapp.com/graph?username=adiyenuubarii&theme=dracula)]
+[(https://activity-graph.herokuapp.com/graph?username=adiyenuubarii&theme=dracula)]
 
   </p>
 </details>
