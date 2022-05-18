@@ -9,12 +9,6 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-<a href="https://github.com/adiyenuubarii/">
-  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=adiyenuubarii&theme=tokyonight&show_icons=truehide_border=true" />
-</a>
-<a href="https://github.com/adiyenuubarii/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiyenuubarii&theme=tokyonight&layout=compact&hide_border=true" />
-</a>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adiyenuubarii&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="adiyenuubarii" /></p>
 <p align="center"> <a href="https://github.com/adiyenuubarii"><img src="https://github-profile-trophy.vercel.app/?username=adiyenuubarii&margin-w=5&theme=radical" alt="adiyenuubarii" /></a> </p>
 
